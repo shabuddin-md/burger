@@ -1,0 +1,130 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.out1{
+    border: solid 1px;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+}
+#in1,#in2{
+    border: solid 1px;
+    height: 100px;
+}
+#in1{
+    width: 100px;
+    margin-left: 100px;
+}
+#in2{
+    width: 550px;
+}
+ul{
+    list-style: none;
+}
+ul li{
+    border: solid 1px;
+    height: 100px;
+    width: 100px;
+    float: left;
+    text-align: center;
+    line-height: 100px;
+}
+ul li a{
+    font-size: 21pxtext;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+}
+ul li a:hover{
+    color: orange;
+    background-color: brown;
+    font-size: 25px;
+}
+.out2{
+    border: solid 1px;
+    height: 700px;
+    background-image:url('burger1.pjeg.avif');
+    background-repeat: no-repeat;
+    background-size: 1500px 700px;
+}
+#welcome{
+    color:white;
+    font-size: 40px;
+    margin-left: 100px;
+    margin-top: 78px;
+    text-shadow: 3px 3px 5px white;
+}
+#taste{
+    color: white;
+    font-size: 20px;
+    margin-left: 70px;
+    margin-top: 30px;
+    text-shadow: 2px 2px 5px;
+}
+#menu{
+    margin-left: 90px;
+    margin-top: 30px;
+    background-color:blue;
+    color: red;
+    font-size: 19px;
+}
+#menu:hover{
+    background-color: aqua;
+}
+.out3{
+    border: solid 1px;
+    height: 513px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+}
+#in3,#in4{
+    border: solid 1px;
+    height: 450px;
+}
+#in3{
+    width: 400px;
+}
+#in4{
+    width: 600px;
+}
+#about{
+    font-size: 45px;
+    margin-top: 40px;
+    text-shadow: 3px 3px 5px;
+    color: white;
+}
+#text1{
+    font-size: 21px;
+    color: aquamarine;
+}
+.out4{
+    border: solid 1px;
+    height: 600px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+}
+#in5,#in6,#in7{
+    border: solid 1px;
+    height: 600px;
+    width: 350px;
+}
+#img1{
+    margin-top: 60px;
+}
+#img2{
+    margin-top: 20px;
+}
+#img3{
+    margin-top: 60px;
+}
+#menu1{
+    text-align: center;
+    color: white;
+}
+#menu2{
+    color: white;
+}

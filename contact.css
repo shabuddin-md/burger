@@ -1,0 +1,52 @@
+form{
+    border: solid 1px;
+    width: 400px;
+    padding-left: 10px;
+    margin-left: 100px;
+    padding-top: 30px;
+}
+body{
+    background-image: url(contact2.jpg);
+    background-repeat: no-repeat;
+    background-size: 1400px 800px;
+}
+label{
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+}
+h1{
+    color: white;
+    font-size: 40px;
+    text-align: center;
+}
+input{
+    height: 20px;
+    width: 300px;
+    background: none;
+    outline: none;
+    border: none;
+    border-bottom-style: solid;
+    border-bottom-color: blue;
+    border-bottom-width: 4px;
+    color: black;
+    font-size: 30px;
+}
+textarea{
+    width: 200px;
+    height: 100px;
+    color: black;
+    font-size: 30px;
+}
+button{
+    height: 60px;
+    width: 160px;
+    background-color: blue;
+    font-size: 20px;
+}
+#avatar{
+    border-radius: 50%;
+    position: relative;
+    left: 260px;
+    top: 60px;
+}
